@@ -1,6 +1,6 @@
 # Halo, Saya Erwan Setiawan, S.Kom. 👋
 
-### 👨‍🏫 Informatics Teacher | EdTech Enthusiast | Web Developer
+### 👨‍🏫 Informatics Teacher | Trainer Id. Academy | EdTech Enthusiast | Web Developer
 
 Saya adalah seorang pendidik yang berfokus pada pengembangan kurikulum Informatika yang relevan dengan industri. Saya percaya bahwa pengajaran pemrograman bukan hanya soal sintaks, tapi soal cara berpikir logis dan kreatif.
 
